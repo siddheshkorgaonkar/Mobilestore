@@ -606,7 +606,7 @@ ul.multi-column-dropdown li a:hover {
 /*-- carousel-slider --*/
 
 .carousel-item.item1 {
-    background: url(../b1.jpg) no-repeat center;
+    background: url(b1.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -615,7 +615,7 @@ ul.multi-column-dropdown li a:hover {
 }
 
 .carousel-item.item2 {
-    background: url(../b2.jpg) no-repeat center;
+    background: url(b2.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -624,7 +624,7 @@ ul.multi-column-dropdown li a:hover {
 }
 
 .carousel-item.item3 {
-    background: url(../b3.jpg) no-repeat center;
+    background: url(b3.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -633,7 +633,7 @@ ul.multi-column-dropdown li a:hover {
 }
 
 .carousel-item.item4 {
-    background: url(../b4.jpg) no-repeat center;
+    background: url(b4.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -790,7 +790,7 @@ h3.tittle-w3l span {
     padding: .5em 2.5em .5em 1em;
     border: 1px solid #fe9126;
     margin: .35em 0 0;
-    background: url(../images/cart.png) no-repeat 116px 9px;
+    background: url("cart.png") no-repeat 116px 9px;
 }
 
 #PPminicarts form {
@@ -1628,7 +1628,7 @@ h2.footer-top-head-w3l {
     height: 64px;
     border: none;
     text-indent: 100%;
-    background: url("../images/move-up.png") no-repeat 0px 0px;
+    background: url("move-up.png") no-repeat 0px 0px;
 }
 
 #toTopHover {
@@ -1649,7 +1649,7 @@ h2.footer-top-head-w3l {
 /*-- inner New Arrivals --*/
 
 .page-head_agile_info_w3l {
-    background: url(../images/b1.jpg) no-repeat center;
+    background: url("b1.jpg") no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
@@ -1659,7 +1659,7 @@ h2.footer-top-head-w3l {
 }
 
 .page-head_agile_info_w3l-2 {
-    background: url(../images/b3.jpg) no-repeat center;
+    background: url("b3.jpg") no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
@@ -1922,7 +1922,7 @@ td.invert-image a img {
 .close1,
 .close2,
 .close3 {
-    background: url('../close_1.png') no-repeat 0px 0px;
+    background: url('close_1.png') no-repeat 0px 0px;
     cursor: pointer;
     width: 28px;
     height: 28px;
@@ -2408,7 +2408,7 @@ h3.title:before {
 /*-- testimonials --*/
 
 .testimonials {
-    background: url(../images/bg2.jpg) no-repeat center fixed;
+    background: url("bg2.jpg") no-repeat center fixed;
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
